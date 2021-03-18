@@ -1,6 +1,15 @@
 # Ren'Py Dark Theme
 
+### Info
+
+
 Eileen in the BG credits: To whom the credits are due || https://www.renpy.org/artcard.html
+
+### Preview
+
+![](cap/01.png)
+![](cap/02.png)
+![](cap/03.png)
 
 How to Install:
 
