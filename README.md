@@ -4,7 +4,9 @@ Eileen in the BG credits: To whom the credits are due || https://www.renpy.org/a
 
 How to Install:
 
-1) go to Ren'Py path
+1) download the zip file https://github.com/Neyunse/renpy-dark-theme/releases/tag/universal
+
+2) go to Ren'Py path
 
 `C://Program Files/Ren'Py-sdk/launcher/game`
 
