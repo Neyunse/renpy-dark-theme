@@ -27,7 +27,7 @@ Note: With each new renpy update the theme will continue to be displayed.
 
 To uninstall the dark mode go to `C://Program Files/Ren'Py-sdk/launcher/game` and removes `custom-renpy.rpy` and `custom-renpy.rpyc`
 
-### What does this topic add? 
+### What does this Theme add? 
 
 1) A dark background with the ren'py mascot and new colors
 
