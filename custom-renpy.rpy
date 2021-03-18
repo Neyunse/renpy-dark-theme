@@ -1,7 +1,7 @@
 init python:
     # Window Info
     window_subtitle = renpy.version()[:12]
-    config.window_title = u"" +window_subtitle+ " 'The Best One' "
+    config.window_title = u"" +window_subtitle+ " '" +renpy.version_name+"' " 
     
     # Dark Theme
     config.defer_styles = True
