@@ -1,7 +1,10 @@
 init python:
     # Window Info
     window_subtitle = renpy.version()[:12]
-    config.window_title = u"" +window_subtitle+ " '" +renpy.version_name+"' " 
+    config.window_title = u"" +window_subtitle+ " '" +renpy.version_name+"' "
+    
+    # Window resize (Launcher)
+    config.gl_resize = False
     
     # Dark Theme
     config.defer_styles = True
